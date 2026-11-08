@@ -60,9 +60,8 @@ The analysis is conducted on the well-known **Breast Cancer Wisconsin (Diagnosti
 
 ## c. GitHub Repository Link
 
-- **GitHub Repository:** https://github.com/2026ak05379-creator/ML-Assignment-2
-- **Live Streamlit App:** https://<your-app-name></your>.streamlit.app
-
+- **GitHub Repository:** https://github.com/nextchapters1/Assignment2
+- **Live Streamlit App:** https://2026ak05379-ml-assignment-2.streamlit.app/
 ### Project Structure
 
 ```text
@@ -131,7 +130,7 @@ Clone the repository and install the dependencies in a Python 3.10+ virtual envi
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/<repo-name>.git
+git clone https://github.com/<your-username>/Assignment2.git
 cd <repo-name>
 
 # Create and activate virtual environment
